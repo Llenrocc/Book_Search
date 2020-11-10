@@ -1,5 +1,7 @@
 # Google Book Search
 
+![screengif](https://user-images.githubusercontent.com/62081345/98653198-bba91e80-230a-11eb-8695-528dc5827b55.gif)
+
 This application was created using the MERN stack and it allows users to search for books, and save them for later. Utiliing the GoogleBooks API, the search results are then shown in list format on the page.
 
 ## Technologies Used
